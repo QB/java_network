@@ -83,5 +83,6 @@ public void write(byte[] buf, int off, int len)
 
 "------------------------------------------------------------------------------------"
 
+/*BufferedInputStreamのmarkとresetを使ってみる：http://blog.mwsoft.jp/article/45580251.html*/
 
 
